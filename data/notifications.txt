@@ -575,3 +575,31 @@
 [com.spotify.music] 
 [com.spotify.music] 
 [com.spotify.music] 
+android: Brave Spotify MyBackdoor ZArchiver se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+com.dts.freefireth: Caja especial Paquete Hipster Divertido, desaparecerá en 60 minutos. ¡No te pierdas esta oportunidad exclusiva!
+com.dts.freefireth: Continúa y completa tus misiones para reclamar aspectos de personajes y otras recompensas.
+com.dts.freefireth: 
+in.playsimple.wordsearch: It's a mystery and only you can solve it Detective🕵️. Find the words now! 
+android: Free Fire Word Search MyBackdoor se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+com.dts.freefireth: Ábrete paso hacia la victoria con el Conjunto Reptil espinoso. ¡Entra y ve cómo pueden ser tuyas!
+com.google.android.googlequicksearchbox: 
+com.google.android.googlequicksearchbox: 
+com.twitter.android: Manchester United le ha comunicado al Real Betis que el club demanda un precio...
+com.twitter.android: Lewandowski contra el Benfica💀
+com.twitter.android: 🚨🚨🚨ESCÁNDALO MUNDIAL 🚨🚨🚨
+
+FUERA DE JUEGO POSICIONAL DE VINICIUS EN EL GOL D...
+com.twitter.android: 
+com.twitter.android: 🚨🚨🚨ESCÁNDALO MUNDIAL 🚨🚨🚨
+
+FUERA DE JUEGO POSICIONAL DE VINICIUS EN EL GOL D...
+com.twitter.android: Manchester United le ha comunicado al Real Betis que el club demanda un precio...
+com.twitter.android: Lewandowski contra el Benfica💀
+com.zhiliaoapp.musically: añadió una publicación
+com.android.vending: X, Navegador web Brave, VPN y más, Temu: compra como millonario, Bienestar digital y 6 más
+com.vmos.google: 
+com.vmos.google: 
+com.vmos.google: 
+com.vmos.google: 
+com.vmos.google: 
+com.vmos.google: 
