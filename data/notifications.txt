@@ -612,3 +612,4 @@ com.google.android.googlequicksearchbox:
 com.zhiliaoapp.musically: ¡Participa ahora en LIVE al Máximo! 💪🏼 Regístrate
 com.google.android.googlequicksearchbox: 
 com.google.android.googlequicksearchbox: 
+com.brave.browser: 
