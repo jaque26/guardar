@@ -108,3 +108,5 @@
 [com.spotify.music] 
 [com.spotify.music] 
 [com.spotify.music] 
+[com.google.android.googlequicksearchbox] 
+[com.google.android.googlequicksearchbox] 
