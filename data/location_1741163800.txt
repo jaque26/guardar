@@ -1,0 +1,3 @@
+Simulated location: Wed Mar  5 02:36:35 2025
+Output: Broadcasting: Intent { act=android.intent.action.MAIN cmp=com.example.myapp/.MainActivity (has extras) }
+Broadcast completed: result=0
