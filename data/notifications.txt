@@ -1,2 +1,2 @@
-[com.zhiliaoapp.musically] acaba de empezar a emitir LIVE. ¡Únete ahora!
-[android] Brave ZArchiver se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[com.google.android.googlequicksearchbox] 
+[com.google.android.googlequicksearchbox] 
