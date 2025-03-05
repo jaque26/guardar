@@ -266,3 +266,4 @@
 [com.spotify.music] 
 [com.spotify.music] 
 [com.spotify.music] 
+[com.vmos.google] 
