@@ -1,2 +1,3 @@
+[android] Brave se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
 [com.google.android.googlequicksearchbox] 
 [com.google.android.googlequicksearchbox] 
