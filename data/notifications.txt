@@ -1076,3 +1076,5 @@ com.brave.browser:
 com.brave.browser: 
 com.google.android.googlequicksearchbox: 
 com.google.android.googlequicksearchbox: 
+com.vmos.google: 
+com.vmos.google: 
