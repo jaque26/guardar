@@ -1084,3 +1084,4 @@ com.vmos.google:
 com.vmos.google: 
 com.vmos.google: 
 com.vmos.google: 
+android: Brave ZArchiver se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
