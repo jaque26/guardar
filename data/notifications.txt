@@ -1146,3 +1146,4 @@ Rapinha y Salah en contextos de pocos espacios se vuelven demasiado fallones y l
 com.twitter.android: Y eso que Chesny tenía de Defensa al muerto de Íñigo 💀
 com.twitter.android: Este no es tan bueno como te lo venden las Chivas, hay algunos que de manera no irónica comparaban a Camberos con Lamine Yamal por le ganó un partido cuando tenían 10 años 🤣
 Camberos no es mejor que Padilla no es mejor ni que el del Cruz Azul 
+[android] DroidScript se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
