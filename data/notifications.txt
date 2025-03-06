@@ -1078,3 +1078,5 @@ com.google.android.googlequicksearchbox:
 com.google.android.googlequicksearchbox: 
 com.vmos.google: 
 com.vmos.google: 
+com.vmos.google: 
+com.vmos.google: 
