@@ -1,0 +1,211 @@
+ID: 75, Nombre: Taxis S.A, Teléfono: 722 321 1490
+ID: 109, Nombre: Messs, Teléfono: +52 728 118 0633
+ID: 115, Nombre: gonz@lez,37,83*, Teléfono: No disponible
+ID: 122, Nombre: Taxis Acahualco, Teléfono: 722 321 1490
+ID: 127, Nombre: César Eduardo Encastin, Teléfono: 722 363 2437
+ID: 128, Nombre: Juventina Reyes, Teléfono: 722 116 3199
+ID: 186, Nombre: Internet, Teléfono: +52 729 280 1432
+ID: 251, Nombre: Gym, Teléfono: +7222187050
+ID: 253, Nombre: Metal, Teléfono: +52 729 274 6409
+ID: 255, Nombre: Gymsteel, Teléfono: +52 729 274 6409
+ID: 303, Nombre: Pizza, Teléfono: 722 218 3298
+ID: 311, Nombre: Comunidades VIRTUALES, Teléfono: No disponible
+ID: 313, Nombre: Ilce, Teléfono: No disponible
+ID: 314, Nombre: J Torres, Teléfono: No disponible
+ID: 315, Nombre: Jesus GN, Teléfono: No disponible
+ID: 319, Nombre: Mantenimiento De Redes, Teléfono: No disponible
+ID: 320, Nombre: nora, Teléfono: No disponible
+ID: 321, Nombre: Pilar, Teléfono: No disponible
+ID: 384, Nombre: Mari Reyes, Teléfono: 729 589 7098
+ID: 394, Nombre: Carbajal, Teléfono: No disponible
+ID: 406, Nombre: Ns, Teléfono: 722 954 3246
+ID: 481, Nombre: Ori Virginia, Teléfono: +52 722 313 4722
+ID: 538, Nombre: LF, Teléfono: 722 679 5079
+ID: 540, Nombre: Maricela Reyes, Teléfono: 729 113 1345
+ID: 541, Nombre: Dra.Martha Denny Dentista 🦷😷🦷🦷, Teléfono: 722 387 7747
+ID: 542, Nombre: Telmex 🛠️📱, Teléfono: +52 722 261 4979
+ID: 543, Nombre: José Calixto, Teléfono: 729 141 2868
+ID: 544, Nombre: Gymsteel, Teléfono: +7224217151
+ID: 545, Nombre: Pastel, Teléfono: 722 776 9344
+ID: 547, Nombre: Virginia RIOS, Teléfono: +52 722 354 3629
+ID: 551, Nombre: ventoleroleticia191, Teléfono: +52 722 307 1625
+ID: 553, Nombre: Dr,Amalio García Rabago, Teléfono: 722 355 4840
+ID: 554, Nombre: Beti Pino, Teléfono: 722 144 3254
+ID: 555, Nombre: Internet De Total Play, Teléfono: 722 408 7480
+ID: 556, Nombre: Ciber Marleb, Teléfono: 722 769 1832
+ID: 558, Nombre: Pizzas, Teléfono: 729 100 5835
+ID: 559, Nombre: Mesa, Teléfono: 447 110 4120
+ID: 560, Nombre: Ayari, Teléfono: 722 889 6716
+ID: 561, Nombre: Mamá De Camila, Teléfono: 722 313 8253
+ID: 562, Nombre: 👸 Lupis 🥰, Teléfono: 722 147 8967
+ID: 563, Nombre: Marissa 👩🧒, Teléfono: 729 108 3288
+ID: 564, Nombre: Marina Rodríguez, Teléfono: 736 115 0843
+ID: 565, Nombre: Guadalupe Acuña Peinados, Teléfono: 729 291 2743
+ID: 566, Nombre: Sra ,Yeny Pollo, Teléfono: 729 300 2192
+ID: 567, Nombre: Diana Belén, Teléfono: 722 611 4835
+ID: 568, Nombre: M.J, Teléfono: 722 551 5386
+ID: 569, Nombre: Elsa Chica Del Ciber, Teléfono: 722 313 6519
+ID: 570, Nombre: Mamá De Erick, Teléfono: 729 494 5469
+ID: 571, Nombre: Angel 👽, Teléfono: +52 729 471 3634
+ID: 572, Nombre: Totalplay, Teléfono: 729 312 1230
+ID: 573, Nombre: Internista Fernando, Arturo Goñi Flores, Teléfono: 722 129 5299
+ID: 574, Nombre: Margarita Acuña, Teléfono: 722 248 6016
+ID: 575, Nombre: Central de Taxis Calendarios, Teléfono: 729 323 8445
+ID: 576, Nombre: Beatriz Pino, Teléfono: +52 722 432 2482
+ID: 577, Nombre: DCTR.Rogelio Nolasco Jiménez, Teléfono: 722 399 0813
+ID: 579, Nombre: Veneno C. M, Teléfono: 729 342 2977
+ID: 580, Nombre: Mamá, Teléfono: 729 469 0413
+ID: 581, Nombre: Yakult, Teléfono: 722 905 8351
+ID: 584, Nombre: Jesús Ciénega, Teléfono: 722 497 1605
+ID: 586, Nombre: Magdalena Ciénega, Teléfono: 722 284 9863
+ID: 587, Nombre: Profa Horte, Teléfono: +52 729 299 0958
+ID: 588, Nombre: Andrea Nengua, Teléfono: +52 729 319 8988
+ID: 590, Nombre: Ma, Teléfono: +52 722 834 0950
+ID: 591, Nombre: E C, Teléfono: +527224971603
+ID: 592, Nombre: Fabiola 🥰, Teléfono: 729 490 5444
+ID: 593, Nombre: Jes, Teléfono: 722 147 7827
+ID: 595, Nombre: Crepas, Teléfono: 729 774 5654
+ID: 597, Nombre: Sr,Jose Mamá De Liz, Teléfono: 722 147 1570
+ID: 598, Nombre: Dr.Luis Fernando, Teléfono: 722 241 9130
+ID: 599, Nombre: Marcial Nengua González, Teléfono: +52 722 550 5795
+ID: 600, Nombre: Imprimir, Teléfono: 722 846 7494
+ID: 601, Nombre: Luis Marcial Nengua Acuña, Teléfono: +52 722 496 8120
+ID: 602, Nombre: Araceli Jugos, Teléfono: 722 345 4238
+ID: 603, Nombre: Carolina 🤗 Nengua, Teléfono: 729 109 0271
+ID: 604, Nombre: FABIOLA ENCASTIN N., Teléfono: +52 722 519 5922
+ID: 605, Nombre: Jacquelin, Teléfono: 722 643 4298
+ID: 607, Nombre: Mario Reyes, Teléfono: 722 129 4398
+ID: 608, Nombre: Jareth, Teléfono: +52 953 137 5544
+ID: 609, Nombre: César Eduardo Encastin, Teléfono: +52 722 654 3370
+ID: 611, Nombre: CyberAdrian, Teléfono: 722 844 9835
+ID: 612, Nombre: Cristián '-', Teléfono: +52 729 294 6880
+ID: 613, Nombre: Pollería Tambos, Teléfono: 729 252 4086
+ID: 615, Nombre: Ximena, Teléfono: +527223745832
+ID: 617, Nombre: Ciber, Teléfono: 729 100 6825
+ID: 629, Nombre: Lis CM(ू•ᴗ•ू� ��), Teléfono: +52 729 578 5777
+ID: 631, Nombre: Orientadora, Teléfono: +52 55 4924 0019
+ID: 648, Nombre: Tenis, Teléfono: +527292777009
+ID: 652, Nombre: Gas, Teléfono: 722 403 4504
+ID: 654, Nombre: Ivon, Teléfono: 714 106 2299
+ID: 655, Nombre: ANDRÉS, Teléfono: +527292309498
+ID: 656, Nombre: Lidia, Teléfono: 722 433 9191
+ID: 659, Nombre: Taxis Candelarios, Teléfono: 722 541 5926
+ID: 660, Nombre: Taxis Candelarios, Teléfono: 722 544 5973
+ID: 681, Nombre: X, Teléfono: +527295989267
+ID: 683, Nombre: Ns, Teléfono: 729 130 8364
+ID: 684, Nombre: null, Teléfono: No disponible
+ID: 687, Nombre: Esme, Teléfono: 7221478811
+ID: 689, Nombre: Soltero Vallejo Delegado, Teléfono: 729 309 5577
+ID: 690, Nombre: Jde, Teléfono: 722 686 6474
+ID: 693, Nombre: Rafael Gonzalez, Teléfono: +527223640040
+ID: 694, Nombre: Banesa, Teléfono: 729 154 0940
+ID: 700, Nombre: ., Teléfono: +527223965661
+ID: 707, Nombre: Diana Urzúa, Teléfono: +527292346415
+ID: 708, Nombre: ., Teléfono: No disponible
+ID: 709, Nombre: ☆Oppenheimer☆, Teléfono: +527294907329
+ID: 710, Nombre: Ailed Arias, Teléfono: +527293239289
+ID: 711, Nombre: Alfredo Celis, Teléfono: +528445630838
+ID: 717, Nombre: 𝑪𝒆𝒔𝒂𝒓 𝑺𝒆𝒄𝒖𝒏𝒅𝒊𝒏𝒐, Teléfono: +527295966912
+ID: 723, Nombre: 𝑫𝒖𝒍𝒄𝒆, Teléfono: +527291029556
+ID: 731, Nombre: 𝓙𝓸𝓼𝓱𝓾𝓪, Teléfono: +527221832816
+ID: 734, Nombre: Christian Vega, Teléfono: +527226146928
+ID: 735, Nombre: Damariz, Teléfono: +527296560491
+ID: 736, Nombre: 𝑫𝒖𝒍𝒄𝒆, Teléfono: No disponible
+ID: 737, Nombre: Eduardo Pérez, Teléfono: +522461856210
+ID: 738, Nombre: Evelyn Yamile, Teléfono: +527224222506
+ID: 739, Nombre: Francisco, Teléfono: +527293747490
+ID: 740, Nombre: 𝓙𝓸𝓼𝓱𝓾𝓪, Teléfono: No disponible
+ID: 741, Nombre: sebas, Teléfono: +527222517763
+ID: 769, Nombre: Antonio, Teléfono: +527225595815
+ID: 780, Nombre: Ciber, Teléfono: 729 528 9126
+ID: 783, Nombre: Aaaaaaa, Teléfono: 722 678 7344
+ID: 787, Nombre: Martin TR, Teléfono: +527299350024
+ID: 788, Nombre: Msk, Teléfono: 55 1512 4350
+ID: 792, Nombre: Cibebrbebebbe, Teléfono: 56 4486 6171
+ID: 794, Nombre: EMANUEL OROZCO RODRÍGUEZ, Teléfono: No disponible
+ID: 796, Nombre: Gigi, Teléfono: +527222539886
+ID: 802, Nombre: Silla, Teléfono: 722 620 1989
+ID: 814, Nombre: Cacho, Teléfono: No disponible
+ID: 816, Nombre: Cibereeeeee, Teléfono: 729 348 0659
+ID: 819, Nombre: Eli Pedagoga 104, Teléfono: +52 722 510 7956
+ID: 823, Nombre: Papelería, Teléfono: 722 502 4748
+ID: 825, Nombre: Camila Estevez, Teléfono: No disponible
+ID: 826, Nombre: José Manuel Maestro De Diego, Teléfono: No disponible
+ID: 831, Nombre: Tortas, Teléfono: 729 466 9023
+ID: 832, Nombre: Papelería 🤩 Gimnasio, Teléfono: +527293480659
+ID: 834, Nombre: null, Teléfono: No disponible
+ID: 835, Nombre: null, Teléfono: No disponible
+ID: 836, Nombre: null, Teléfono: No disponible
+ID: 840, Nombre: papeleriahidalgo116 Don Beni, Teléfono: 5644866171
+ID: 850, Nombre: Mamá, Teléfono: 729 342 4041
+ID: 863, Nombre: Hambu, Teléfono: 722 458 1703
+ID: 865, Nombre: Comida, Teléfono: +527227833229
+ID: 867, Nombre: Papepepe, Teléfono: 722 907 8583
+ID: 869, Nombre: Pizza ✅, Teléfono: 729 501 6159
+ID: 902, Nombre: Bri, Teléfono: +527226456537
+ID: 905, Nombre: Vt, Teléfono: +527292764464
+ID: 907, Nombre: Veet, Teléfono: +527296622585
+ID: 910, Nombre: Veettt, Teléfono: +527293293969
+ID: 916, Nombre: Cristian J, Teléfono: 729 138 9674
+ID: 917, Nombre: Maj👅, Teléfono: No disponible
+ID: 918, Nombre: Noososoeoeoe, Teléfono: +52 722 454 0007
+ID: 920, Nombre: Esther, Teléfono: +527223772476
+ID: 921, Nombre: Sillalal, Teléfono: 722 420 4084
+ID: 925, Nombre: Iiiiiuisusisisi, Teléfono: 729 919 3375
+ID: 926, Nombre: Ciber Al Lado Del🐔, Teléfono: +527299193375
+ID: 937, Nombre: nenguaandrea6, Teléfono: +527291431736
+ID: 939, Nombre: Mrtin, Teléfono: 722 311 1172
+ID: 942, Nombre: Nzndm, Teléfono: 722 791 0007
+ID: 947, Nombre: Jess z, Teléfono: No disponible
+ID: 951, Nombre: NICOLAS, Teléfono: +527293235474
+ID: 952, Nombre: TOPO, Teléfono: No disponible
+ID: 953, Nombre: Joss~♥️, Teléfono: +52 722 391 5581
+ID: 954, Nombre: Acta Certificada, Teléfono: No disponible
+ID: 957, Nombre: Pp, Teléfono: 55 3461 2258
+ID: 967, Nombre: Raul, Teléfono: No disponible
+ID: 970, Nombre: Maricela Reyes, Teléfono: +52 722 411 6822
+ID: 971, Nombre: Elizabeth Bals, Teléfono: No disponible
+ID: 987, Nombre: Sader, Teléfono: 729 360 4344
+ID: 989, Nombre: Francisco Benítez Pérez, Teléfono: 720 358 0898
+ID: 994, Nombre: 🚕🚕👍, Teléfono: +52 722 541 5926
+ID: 1005, Nombre: GYM, Teléfono: 722 201 1235
+ID: 1006, Nombre: GYM, Teléfono: 791 111 2571
+ID: 1008, Nombre: Eria, Teléfono: +527222503386
+ID: 1010, Nombre: Flore, Teléfono: +52 722 543 7804
+ID: 1033, Nombre: Cremeria, Teléfono: +52 720 383 8611
+ID: 1036, Nombre: LF, Teléfono: No disponible
+ID: 1049, Nombre: Veteri, Teléfono: +524251085230
+ID: 1050, Nombre: Taxis Candelarios, Teléfono: 722 292 7608
+ID: 1051, Nombre: 🚕🚕, Teléfono: 7222927608
+ID: 1063, Nombre: Ciber Secu, Teléfono: 722 289 9838
+ID: 1065, Nombre: Ahajaoaoa, Teléfono: +52 722 880 0711
+ID: 1066, Nombre: Elsa Ciber👍, Teléfono: 722 880 0711
+ID: 1070, Nombre: Deppprt, Teléfono: +52 722 176 7747
+ID: 1072, Nombre: +52 722 497 1605, Teléfono: +52 722 497 1605
+ID: 1074, Nombre: Martin Tole, Teléfono: +527201046670
+ID: 1085, Nombre: Mi Espósito, Teléfono: 722 166 4776
+ID: 1090, Nombre: Luu, Teléfono: +52 722 254 6757
+ID: 1091, Nombre: Miguel Eduardo Total Play, Teléfono: 722 884 7549
+ID: 1099, Nombre: Interner Total Play, Teléfono: +52 722 314 9281
+ID: 1103, Nombre: Papelería Tomasito, Teléfono: +527226003746
+ID: 1121, Nombre: Pollo 3, Teléfono: +52 722 658 4283
+ID: 1122, Nombre: Pollo 1, Teléfono: +52 729 722 2381
+ID: 1123, Nombre: Pollo 2, Teléfono: +52 720 122 7426
+ID: 1128, Nombre: Yesi, Teléfono: +52 729 339 1385
+ID: 1130, Nombre: Gas LP, Teléfono: +52 722 771 5689
+ID: 1131, Nombre: 9-1-1 Emergencias, Teléfono: 911
+ID: 1132, Nombre: Serv comunidad, Teléfono: 118
+ID: 1133, Nombre: Atencion a Clientes, Teléfono: *111
+ID: 1134, Nombre: Emergencias, Teléfono: 112
+ID: 1135, Nombre: Transito, Teléfono: 113
+ID: 1136, Nombre: Locatel, Teléfono: 119
+ID: 1137, Nombre: Denun Ciudadana, Teléfono: 089
+ID: 1138, Nombre: Rescatel, Teléfono: 100
+ID: 1139, Nombre: IMSS, Teléfono: 115
+ID: 1141, Nombre: Quesadillas,Tortas Y Mas, Teléfono: 729 447 5509
+ID: 1145, Nombre: ❤️. Rouss Nengua, Teléfono: +527296061367
+ID: 1148, Nombre: Pet Life & Care Veterinaria, Teléfono: +527224086692
+ID: 1149, Nombre: Pilar Ciénega, Teléfono: +52 722 670 7356
+ID: 1150, Nombre: Clini, Teléfono: +527224086692
+ID: 1151, Nombre: Juan Nengua🤝, Teléfono: +52 729 106 9312
+ID: 1153, Nombre: Ciber Cruzero Cruzero, Teléfono: +52 722 166 7388
