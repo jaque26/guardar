@@ -395,3 +395,5 @@ Puedes cambiar esta opción más tarde en Configuración > Apps y notificaciones
 [Pantalla de notificaciones, 2:18, 7 mar., TELCEL, Tres barras de teléfono, , Timbre en silencio, Voz a través de LTE está activada, Tres barras de teléfono, 70 %, Internet, Totalplay-2.4G-c668, Bluetooth, Desactivado, Zona Wi-Fi, Desactivada, Billetera, Agregar una tarjeta, Vie, 7 de mar., TELCEL]
 [Pantalla de notificaciones, 2:18, 7 mar., TELCEL, Tres barras de teléfono, , Timbre en silencio, Voz a través de LTE está activada, Tres barras de teléfono, 70 %, Internet, Totalplay-2.4G-c668, Bluetooth, Desactivado, Zona Wi-Fi, Desactivada, Billetera, Agregar una tarjeta, Vie, 7 de mar., Avast Mobile Security, •, ahora, Libere hasta 346 MB de espacio, Hemos encontrado archivos no deseados que puede eliminar., opciones para posponer notificaciones, San Antonio Acahualco, •, 6 d, Posibilidad de chubascos, Silenciadas, Termux, 1 session (wake lock held), Tu dispositivo está protegido, •, 1 min, Avast Mobile Security te protege en todo momento., Historial, Borrar todo, TELCEL]
 [Termux]
+[Girar pantalla]
+[Pantalla bloqueada, 2:18, Vie, 7 de mar., 9°]
