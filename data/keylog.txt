@@ -256,3 +256,6 @@ Puedes cambiar esta opción más tarde en Configuración > Apps y notificaciones
 [Termux]
 [Termux]
 [Se guardó la captura de pantalla]
+[Moto App Launcher]
+[Moto App Launcher]
+[Inicio]
