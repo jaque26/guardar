@@ -1,2 +1,0 @@
-[com.google.android.googlequicksearchbox] 
-[com.google.android.googlequicksearchbox] 
