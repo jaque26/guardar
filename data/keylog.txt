@@ -4403,3 +4403,5 @@
 [Las alternativas están disponibles]
 [Las alternativas están descartadas]
 [Las alternativas están descartadas]
+[Termux]
+[]
