@@ -34,3 +34,15 @@
 [Fri Mar 07 14:13:50 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
 [Fri Mar 07 14:13:51 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
 [Fri Mar 07 14:13:51 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:16:24 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:16:25 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:16:25 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:16:25 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:16:25 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:16:25 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:16:28 CST 2025] [com.termux] 0 sessions
+[Fri Mar 07 14:16:28 CST 2025] [com.termux] 0 sessions
+[Fri Mar 07 14:16:28 CST 2025] [com.termux] 1 session
+[Fri Mar 07 14:17:50 CST 2025] [com.avast.android.mobilesecurity] Hemos encontrado archivos no deseados que puede eliminar.
+[Fri Mar 07 14:18:00 CST 2025] [com.termux] 1 session
+[Fri Mar 07 14:18:00 CST 2025] [com.termux] 1 session (wake lock held)
