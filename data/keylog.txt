@@ -397,3 +397,4 @@ Puedes cambiar esta opción más tarde en Configuración > Apps y notificaciones
 [Termux]
 [Girar pantalla]
 [Pantalla bloqueada, 2:18, Vie, 7 de mar., 9°]
+[Pantalla bloqueada, 2:18, Vie, 7 de mar., 9°, 70 %]
