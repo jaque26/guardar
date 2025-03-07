@@ -66050,3 +66050,988 @@ Ya sabes si modificas algo me das todo completooooooo.
 
 2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si se borran]
 []
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si se borran ]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si se borran ]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si se]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si se]
+[]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si s]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si s]
+[]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si ]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si ]
+[]
+[]
+[Las alternativas están disponibles]
+[Las alternativas están disponibles]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si g]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si g]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si ge]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si ge]
+[]
+[]
+[Las alternativas están descartadas]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si gen]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si gen]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si gene]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si gene]
+[Las alternativas están disponibles]
+[]
+[]
+[genera]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si gener]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si gener]
+[Las alternativas están disponibles]
+[]
+[]
+[]
+[]
+[Las alternativas están descartadas]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan]
+[]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan ]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan ]
+[]
+[]
+[Las alternativas están descartadas]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan a]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan a]
+[]
+[]
+[Las alternativas están disponibles]
+[Las alternativas están descartadas]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan ar]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan ar]
+[]
+[]
+[archivos]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan arc]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan arc]
+[]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos ]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos ]
+[]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos]
+[]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos ]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos ]
+[]
+[]
+[Las alternativas están descartadas]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .]
+[]
+[]
+[Las alternativas están disponibles]
+[Las alternativas están disponibles]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .t]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .t]
+[]
+[]
+[Las alternativas están descartadas]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt]
+[]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt ]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt ]
+[]
+[]
+[Las alternativas están disponibles]
+[]
+[]
+[Las alternativas están descartadas]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en]
+[]
+[]
+[Las alternativas están disponibles]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en ]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en ]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en e]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en e]
+[Las alternativas están descartadas]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en el]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en el]
+[]
+[]
+[Las alternativas están disponibles]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en el ]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en el ]
+[]
+[]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en el d]
+[Pues creo que si funciona todo bien, solo unas cosas quiero que cambies y me digas:
+1- lo de location lo sube a github creo que cada 3 minutos, dame los tiempos exactos de captura y subida que le pusiste y si puedes cámbialo para que se suba cada 1.10 minuto a Github igualmente lo de captura que se capture la ubicación cada 1 minuto.
+
+-solo hazlo si es extremadamente facil y no representa problemas graves o de compilacion o funcionamiento, actualmente en cada subida sube un archivo location y muchos números por cada ubicación que captura, yo quiero todo en un mismo location, por eso te dije que el location se eliminará solo a las 12 de la noche, por qué quiero que no suba muchos archivos location, quiero que suba solo 1 Pero que ahí salgan todas las ubicaciones que capturó.
+-esto igual hazlo si es demasiado fácil:
+Actualmente me sale así lo de location: Lat: 19.2787284, Lon: -99.7684448 (Red)
+
+Me gustaría que no saliera (Lat:) ni (Lon:) osea solo (19.2787284,  -99.7684448) para copiar y pegar nada más.
+También me gustaría que saliera la hora en la que se capturo esa ubicación, hora y fecha al inicio.
+Y también me gustaria que dijera por ejemplo a qué wifi está conectado o si está con datos.
+
+Te repito, solo hazlo si es extremadamente facil y no presente problemas.
+
+Ya sabes si modificas algo me das todo completooooooo.
+
+2-solo dame los tiempos de captura y subida de todas las funciones actuales que funcionan, media, notificaciones, keylogger y location. Y si generan archivos .txt en el d]
+[]
+[]
+[Las alternativas están disponibles]
