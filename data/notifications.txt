@@ -1,0 +1,29 @@
+[Fri Mar 07 14:01:20 CST 2025] [com.termux] 1 session
+[Fri Mar 07 14:01:20 CST 2025] [com.termux] 1 session (wake lock held)
+[Fri Mar 07 14:05:02 CST 2025] [ru.zdevs.zarchiver] 0%
+[Fri Mar 07 14:05:02 CST 2025] [ru.zdevs.zarchiver] 0%
+[Fri Mar 07 14:06:24 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:06:31 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:06:34 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:06:34 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:06:36 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:06:36 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:06:36 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:06:51 CST 2025] [com.android.providers.downloads] Google Drive
+[Fri Mar 07 14:06:52 CST 2025] [com.android.providers.downloads] Google Drive
+[Fri Mar 07 14:06:52 CST 2025] [com.android.providers.downloads] Google Drive
+[Fri Mar 07 14:06:53 CST 2025] [com.android.providers.downloads] 
+[Fri Mar 07 14:06:54 CST 2025] [com.android.providers.downloads] 
+[Fri Mar 07 14:06:57 CST 2025] [com.termux] 0 sessions
+[Fri Mar 07 14:06:57 CST 2025] [com.termux] 0 sessions
+[Fri Mar 07 14:06:59 CST 2025] [com.termux] 1 session
+[Fri Mar 07 14:07:12 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:07:12 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:07:12 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:07:13 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:07:13 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:07:13 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Fri Mar 07 14:08:38 CST 2025] [com.android.providers.downloads] Google Drive
+[Fri Mar 07 14:08:42 CST 2025] [com.google.android.apps.docs] 
+[Fri Mar 07 14:09:22 CST 2025] [com.termux] 1 session
+[Fri Mar 07 14:09:22 CST 2025] [com.termux] 1 session (wake lock held)
