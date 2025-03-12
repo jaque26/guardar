@@ -557,3 +557,8 @@ djjdidid bdjdjd
 [Brave]
 [Ícono de la aplicación]
 [Brave]
+[Apps recientes]
+[Apps recientes]
+[Termux]
+[Termux]
+[CTRL]
