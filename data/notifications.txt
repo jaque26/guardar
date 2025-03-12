@@ -359,3 +359,41 @@ Goles vs Shaktar, Shalke
 [Wed Mar 12 15:15:10 CST 2025] [com.facebook.orca] Envió una foto.
 [Wed Mar 12 15:15:18 CST 2025] [com.facebook.orca] Tengo este en $750
 [Wed Mar 12 15:15:38 CST 2025] [com.facebook.orca] Y más chico en $750 con envío
+[Wed Mar 12 15:23:13 CST 2025] [com.facebook.orca] Quedó a tus órdenes exelente tarde
+[Wed Mar 12 15:34:25 CST 2025] [com.facebook.orca] Sería más al rato como a las 6
+[Wed Mar 12 15:34:26 CST 2025] [com.facebook.orca] 
+[Wed Mar 12 15:37:11 CST 2025] [com.facebook.orca] A no se para que hora lo ocupe usted digame
+[Wed Mar 12 15:39:29 CST 2025] [com.facebook.orca] Tendrá la ubicación exacta para cotizar el envío
+[Wed Mar 12 15:39:31 CST 2025] [com.facebook.orca] Por favor
+[Wed Mar 12 15:41:32 CST 2025] [com.facebook.orca] Permitame tantito
+[Wed Mar 12 15:46:30 CST 2025] [com.twitter.android] Rapinha:
+Interior izquierdo 
+Su posición natural es extremo derecho 
+0 penales 
+Goles vs Bayern
+
+Penaldo:
+Delantero Centro penalero
+8 penales 
+Goles vs Shaktar, Shalke
+[Wed Mar 12 15:46:30 CST 2025] [com.twitter.android] 
+[Wed Mar 12 15:46:30 CST 2025] [com.twitter.android] Rapinha:
+Interior izquierdo 
+Su posición natural es extremo derecho 
+0 penales 
+Goles vs Bayern
+
+Penaldo:
+Delantero Centro penalero
+8 penales 
+Goles vs Shaktar, Shalke
+[Wed Mar 12 15:47:28 CST 2025] [com.facebook.orca] Tendrá la ubicación más exacta o un favor me la podría enviar a este número 7222646093
+[Wed Mar 12 15:48:20 CST 2025] [com.facebook.orca] Del envío serían $80
+[Wed Mar 12 15:52:59 CST 2025] [com.facebook.orca] Si Cómo sería
+[Wed Mar 12 15:55:21 CST 2025] [com.facebook.orca] No , sería personalmente que la vea en los tacos SAGITARIO
+[Wed Mar 12 15:57:59 CST 2025] [com.facebook.orca] Envió una foto.
+[Wed Mar 12 15:58:00 CST 2025] [com.facebook.orca] Envió una foto.
+[Wed Mar 12 15:58:00 CST 2025] [com.facebook.orca] Envió una foto.
+[Wed Mar 12 15:58:01 CST 2025] [com.facebook.orca] Envió una foto.
+[Wed Mar 12 15:58:02 CST 2025] [com.facebook.orca] Envió una foto.
+[Wed Mar 12 15:58:02 CST 2025] [com.facebook.orca] Envió una foto.
