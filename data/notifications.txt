@@ -7452,3 +7452,30 @@ https://t.me/Juegodetronostvhd/101
 [Tue Mar 11 23:42:33 CST 2025] [com.termux] 1 session
 [Tue Mar 11 23:43:31 CST 2025] [com.termux] 1 session
 [Tue Mar 11 23:43:32 CST 2025] [com.termux] 1 session (wake lock held)
+[Tue Mar 11 23:48:57 CST 2025] [com.termux] 0 sessions
+[Tue Mar 11 23:48:57 CST 2025] [com.termux] 0 sessions
+[Tue Mar 11 23:48:58 CST 2025] [com.termux] 1 session
+[Tue Mar 11 23:49:02 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Tue Mar 11 23:49:02 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Tue Mar 11 23:49:02 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Tue Mar 11 23:49:03 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Tue Mar 11 23:49:03 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Tue Mar 11 23:49:03 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:00:45 CST 2025] [com.android.vending] Instagram, Mensajes de Google, Threads, Files de Google y 38 más
+[Wed Mar 12 00:06:10 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:06:12 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:06:12 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:06:12 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:06:12 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:06:12 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:10:37 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:10:38 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:10:38 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:10:39 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:10:39 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:10:39 CST 2025] [com.avast.android.mobilesecurity] Avast Mobile Security te protege en todo momento.
+[Wed Mar 12 00:11:13 CST 2025] [com.termux] 0 sessions
+[Wed Mar 12 00:11:13 CST 2025] [com.termux] 0 sessions
+[Wed Mar 12 00:11:14 CST 2025] [com.termux] 1 session
+[Wed Mar 12 00:11:29 CST 2025] [com.termux] 1 session
+[Wed Mar 12 00:11:30 CST 2025] [com.termux] 1 session (wake lock held)
