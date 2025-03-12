@@ -438,3 +438,7 @@ Goles vs Shaktar, Shalke
 [Wed Mar 12 16:08:28 CST 2025] [com.google.android.googlequicksearchbox] 
 [Wed Mar 12 16:08:28 CST 2025] [com.google.android.googlequicksearchbox] 
 [Wed Mar 12 16:13:00 CST 2025] [com.facebook.orca] Si le saldría más caro en este caso yo le recomiendo que mejor la entrega se el día de mañana , lo q pasa q hoy mi repartidor a esa hora no puede entonces tendría q enviarlo en taxi y pues si me cobraría el regreso del ramo
+[Wed Mar 12 16:13:35 CST 2025] [com.facebook.orca] Hola
+[Wed Mar 12 16:13:35 CST 2025] [com.facebook.orca] 
+[Wed Mar 12 16:13:36 CST 2025] [com.facebook.orca] Buenas
+[Wed Mar 12 16:13:38 CST 2025] [com.facebook.orca] Buenas
