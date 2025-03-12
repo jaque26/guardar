@@ -85,3 +85,10 @@ dkdkdiod
 [Te voy a pasar un script de python que funciona bien en mi Android 13 que es un cubot Pero no en mi Android 12 que es un Motorola.
 La cree junto a ti y segundo debe ser funcional en Android 13-14 Pero en 12 no lo pusimos.Bueno el problema es que todo funciona correc*tamente en los dos teléfonos excepto por una función que se encarga de subir todas las fotos en el dispositivo existentes, en el Android 13 si las sube todas y las nuevas también, pero en el Android 12 no sube absolu*tamente nada.
 El A]
+[Se muestra el contenido copiado y capturado recien*temente]
+[Apps recientes]
+[Apps recientes]
+[Termux]
+[Termux]
+[Copy, Paste, More…]
+[Copy, Paste, More…]
