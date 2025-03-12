@@ -459,3 +459,23 @@ Goles vs Shaktar, Shalke
 [Wed Mar 12 17:32:35 CST 2025] [com.vmos.google] 
 [Wed Mar 12 17:32:48 CST 2025] [com.vmos.google] 
 [Wed Mar 12 17:32:48 CST 2025] [com.vmos.google] 
+[Wed Mar 12 17:36:52 CST 2025] [com.twitter.android] Rapinha:
+Interior izquierdo 
+Su posición natural es extremo derecho 
+0 penales 
+Goles vs Bayern
+
+Penaldo:
+Delantero Centro penalero
+8 penales 
+Goles vs Shaktar, Shalke
+[Wed Mar 12 17:36:52 CST 2025] [com.twitter.android] Rapinha:
+Interior izquierdo 
+Su posición natural es extremo derecho 
+0 penales 
+Goles vs Bayern
+
+Penaldo:
+Delantero Centro penalero
+8 penales 
+Goles vs Shaktar, Shalke
