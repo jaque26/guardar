@@ -561,3 +561,4 @@ Goles vs Shaktar, Shalke
 [Wed Mar 12 19:09:17 CST 2025] [android] Documentos se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
 [Wed Mar 12 19:10:13 CST 2025] [com.facebook.orca] En rosas o gerberas
 [Wed Mar 12 19:10:42 CST 2025] [com.facebook.orca] Respondido: Ok entonces mañana te lo estaría entregando
+[Wed Mar 12 19:11:47 CST 2025] [com.facebook.orca] Si serían 250 ya con el costo extra de la entrega a domicilio
