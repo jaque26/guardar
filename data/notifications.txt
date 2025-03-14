@@ -564,3 +564,14 @@ El que llora: Real Vardrid
 [Fri Mar 14 16:45:21 CST 2025] [com.vmos.google] 
 [Fri Mar 14 16:45:21 CST 2025] [com.vmos.google] 
 [Fri Mar 14 16:46:01 CST 2025] [com.vmos.google] 
+[Fri Mar 14 17:48:17 CST 2025] [com.facebook.katana] 
+[Fri Mar 14 17:48:17 CST 2025] [com.facebook.katana] 
+[Fri Mar 14 17:48:18 CST 2025] [com.google.android.googlequicksearchbox] 
+[Fri Mar 14 17:48:18 CST 2025] [com.google.android.googlequicksearchbox] 
+[Fri Mar 14 17:48:19 CST 2025] [com.twitter.android] El que gana: Barcelona 
+El que pierde; Atlético 
+El que llora: Real Vardrid
+[Fri Mar 14 17:48:20 CST 2025] [com.twitter.android] 
+[Fri Mar 14 17:48:20 CST 2025] [com.twitter.android] El que gana: Barcelona 
+El que pierde; Atlético 
+El que llora: Real Vardrid
