@@ -265,3 +265,5 @@ El que llora: Real Vardrid
 [Thu Mar 13 21:48:24 CST 2025] [android] Si no quieres que Aim Pool use esta función, presiona para abrir la configuración y desactivarla.
 [Thu Mar 13 22:04:12 CST 2025] [com.facebook.katana] 
 [Thu Mar 13 22:04:13 CST 2025] [com.facebook.katana] 
+[Thu Mar 13 23:49:07 CST 2025] [com.vmos.google] 
+[Thu Mar 13 23:49:07 CST 2025] [com.vmos.google] 
