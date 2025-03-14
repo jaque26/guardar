@@ -237,3 +237,5 @@ El que llora: Real Vardrid
 [Thu Mar 13 17:45:53 CST 2025] [com.google.android.youtube] 
 [Thu Mar 13 17:45:59 CST 2025] [com.facebook.katana] 
 [Thu Mar 13 17:45:59 CST 2025] [com.facebook.katana] 
+[Thu Mar 13 17:49:51 CST 2025] [android] El teléfono tiene suficiente carga. Ya no se restringen las funciones.
+[Thu Mar 13 19:00:02 CST 2025] [com.twitter.android] Y eso que bajo su nivel, por qué en 2021-2022 estaba solo por detrás de Kevin De Bruyne en cuanto a mejores mediapuntas del mundo.
