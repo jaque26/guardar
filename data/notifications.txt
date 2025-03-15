@@ -48,3 +48,14 @@ El que llora: Real Vardrid
 [Sat Mar 15 14:57:35 CST 2025] [com.twitter.android] No nos van a silenciar, el Archivismo triunfará. 🫡
 [Sat Mar 15 14:57:36 CST 2025] [com.twitter.android] No nos van a silenciar, el Archivismo triunfará. 🫡
 [Sat Mar 15 15:57:19 CST 2025] [android] Free Fire se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Sat Mar 15 16:27:42 CST 2025] [com.facebook.katana] 
+[Sat Mar 15 17:22:37 CST 2025] [com.dts.freefireth] Tu equipo te está esperando. ¡Regresa y alístate!
+[Sat Mar 15 17:34:51 CST 2025] [com.vmos.google] 
+[Sat Mar 15 17:34:51 CST 2025] [com.vmos.google] 
+[Sat Mar 15 17:35:04 CST 2025] [com.vmos.google] 
+[Sat Mar 15 17:35:16 CST 2025] [com.vmos.google] 
+[Sat Mar 15 17:35:16 CST 2025] [com.vmos.google] 
+[Sat Mar 15 17:36:41 CST 2025] [com.vmos.google] 
+[Sat Mar 15 17:40:11 CST 2025] [com.facebook.katana] 
+[Sat Mar 15 17:56:27 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sat Mar 15 17:56:27 CST 2025] [com.google.android.googlequicksearchbox] 
