@@ -645,3 +645,6 @@ Detalles exclusivos sobre la demanda de Rafael Baca a Cruz Azul…...
 [Fri Mar 14 22:55:09 CST 2025] [com.vmos.google] 
 [Fri Mar 14 22:56:49 CST 2025] [com.brave.browser] DeBe
 [Fri Mar 14 23:02:22 CST 2025] [com.brave.browser] DeBe
+[Fri Mar 14 23:21:52 CST 2025] [com.brave.browser] DeBe
+[Fri Mar 14 23:44:13 CST 2025] [com.brave.browser] DeBe
+[Fri Mar 14 23:57:23 CST 2025] [android] TikTok Antivirus Spotify SoundHound se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
