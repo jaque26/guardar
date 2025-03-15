@@ -19,3 +19,18 @@ El que llora: Real Vardrid
 [Sat Mar 15 08:07:53 CST 2025] [com.vmos.google] 
 [Sat Mar 15 08:07:53 CST 2025] [com.vmos.google] 
 [Sat Mar 15 08:10:18 CST 2025] [com.vmos.google] 
+[Sat Mar 15 10:22:06 CST 2025] [com.android.systemui] Tienes 10 % de batería restante. El Ahorro de batería activa el Tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.
+[Sat Mar 15 10:24:40 CST 2025] [android] Antivirus se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Sat Mar 15 10:24:40 CST 2025] [com.android.systemui] Tienes 10 % de batería restante. El Ahorro de batería activa el Tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.
+[Sat Mar 15 10:24:43 CST 2025] [com.dts.freefireth] Continúa y completa tus misiones para reclamar aspectos de personajes y otras recompensas.
+[Sat Mar 15 10:24:50 CST 2025] [in.playsimple.wordsearch] Tienes una pista gratis. ¡Reclama ahora!
+[Sat Mar 15 12:34:46 CST 2025] [android] El teléfono tiene suficiente carga. Ya no se restringen las funciones.
+[Sat Mar 15 13:55:43 CST 2025] [com.dts.freefireth] Juega una partida y obtén el emote ¿Te gusta?.
+[Sat Mar 15 13:55:43 CST 2025] [com.dts.freefireth] 
+[Sat Mar 15 13:55:44 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sat Mar 15 13:55:44 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sat Mar 15 13:55:45 CST 2025] [com.twitter.android] Para el que no sabía, estoy muy feliz de anunciarles que soy el el nuevo CM...
+[Sat Mar 15 13:55:45 CST 2025] [com.twitter.android] 🚨ÚLTIMA HORA | El Real Madrid anuncia que NO JUGARÁ más si NO se RESPETA el ...
+[Sat Mar 15 13:55:45 CST 2025] [com.twitter.android] Para el que no sabía, estoy muy feliz de anunciarles que soy el el nuevo CM...
+[Sat Mar 15 13:55:46 CST 2025] [com.twitter.android] 
+[Sat Mar 15 13:55:46 CST 2025] [com.facebook.katana] 
