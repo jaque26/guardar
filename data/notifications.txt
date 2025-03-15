@@ -575,3 +575,55 @@ El que llora: Real Vardrid
 [Fri Mar 14 17:48:20 CST 2025] [com.twitter.android] El que gana: Barcelona 
 El que pierde; Atlético 
 El que llora: Real Vardrid
+[Fri Mar 14 18:24:13 CST 2025] [android] Antivirus se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Fri Mar 14 18:24:18 CST 2025] [com.google.android.googlequicksearchbox] 
+[Fri Mar 14 18:24:18 CST 2025] [com.google.android.googlequicksearchbox] 
+[Fri Mar 14 18:24:18 CST 2025] [com.twitter.android] Cruz Azul 🚂
+
+Detalles exclusivos sobre la demanda de Rafael Baca a Cruz Azul…...
+[Fri Mar 14 18:24:18 CST 2025] [com.twitter.android] Cruz Azul 🚂
+
+Detalles exclusivos sobre la demanda de Rafael Baca a Cruz Azul…...
+[Fri Mar 14 18:26:36 CST 2025] [com.android.vending] 
+[Fri Mar 14 18:26:36 CST 2025] [com.android.vending] 
+[Fri Mar 14 18:26:36 CST 2025] [com.android.vending] 
+[Fri Mar 14 18:26:36 CST 2025] [com.android.vending] 
+[Fri Mar 14 18:26:37 CST 2025] [com.android.vending] 
+[Fri Mar 14 18:26:37 CST 2025] [com.android.vending] 
+[Fri Mar 14 18:26:37 CST 2025] [com.android.vending] 
+[Fri Mar 14 18:26:38 CST 2025] [com.android.vending] Quedan 3 segundos
+[Fri Mar 14 18:26:40 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:26:41 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:26:41 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:26:41 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:26:41 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:26:42 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:26:42 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:26:42 CST 2025] [com.android.vending] Quedan 21 segundos
+[Fri Mar 14 18:26:42 CST 2025] [com.android.vending] Quedan 21 segundos
+[Fri Mar 14 18:26:44 CST 2025] [com.android.vending] Quedan 21 segundos
+[Fri Mar 14 18:26:46 CST 2025] [com.android.vending] Quedan 21 segundos
+[Fri Mar 14 18:26:48 CST 2025] [com.android.vending] Quedan 20 segundos
+[Fri Mar 14 18:26:50 CST 2025] [com.android.vending] Quedan 18 segundos
+[Fri Mar 14 18:26:52 CST 2025] [com.android.vending] Quedan 16 segundos
+[Fri Mar 14 18:26:54 CST 2025] [com.android.vending] Quedan 15 segundos
+[Fri Mar 14 18:26:56 CST 2025] [com.android.vending] Quedan 14 segundos
+[Fri Mar 14 18:26:58 CST 2025] [com.android.vending] Quedan 11 segundos
+[Fri Mar 14 18:27:00 CST 2025] [com.android.vending] Quedan 10 segundos
+[Fri Mar 14 18:27:02 CST 2025] [com.android.vending] Quedan 9 segundos
+[Fri Mar 14 18:27:04 CST 2025] [com.android.vending] Quedan 6 segundos
+[Fri Mar 14 18:27:06 CST 2025] [com.android.vending] Queda 1 segundo
+[Fri Mar 14 18:27:07 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:27:07 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:27:07 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:27:07 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:27:07 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 18:27:07 CST 2025] [com.android.vending] Quedan 0 segundos
+[Fri Mar 14 19:14:41 CST 2025] [com.google.android.googlequicksearchbox] 
+[Fri Mar 14 19:14:41 CST 2025] [com.google.android.googlequicksearchbox] 
+[Fri Mar 14 19:14:42 CST 2025] [com.google.android.googlequicksearchbox] 
+[Fri Mar 14 19:14:42 CST 2025] [com.google.android.googlequicksearchbox] 
+[Fri Mar 14 19:14:47 CST 2025] [com.facebook.katana] 
+[Fri Mar 14 19:14:47 CST 2025] [com.facebook.katana] 
+[Fri Mar 14 19:44:32 CST 2025] [com.vmos.google] 
+[Fri Mar 14 19:44:32 CST 2025] [com.vmos.google] 
