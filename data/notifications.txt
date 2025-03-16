@@ -76,3 +76,17 @@ El que llora: Real Vardrid
 [Sat Mar 15 20:22:08 CST 2025] [android] TikTok Brave se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
 [Sat Mar 15 20:22:14 CST 2025] [com.dts.freefireth] Tu amigo €£rodolfo¥™ está en línea. ¡Hagan equipo y jueguen partidas juntos!
 [Sat Mar 15 20:22:23 CST 2025] [com.facebook.katana] 
+[Sat Mar 15 20:25:54 CST 2025] [com.poolersoft.aimpool2] Aim Pool is helping you improve your aiming skills.
+[Sat Mar 15 20:25:54 CST 2025] [android] Si no quieres que Aim Pool use esta función, presiona para abrir la configuración y desactivarla.
+[Sat Mar 15 20:25:54 CST 2025] [android] 
+[Sat Mar 15 20:28:15 CST 2025] [android] 
+[Sat Mar 15 20:28:32 CST 2025] [com.poolersoft.aimpool2] Aim Pool is helping you improve your aiming skills.
+[Sat Mar 15 20:28:32 CST 2025] [android] Si no quieres que Aim Pool use esta función, presiona para abrir la configuración y desactivarla.
+[Sat Mar 15 20:28:32 CST 2025] [android] 
+[Sat Mar 15 20:30:36 CST 2025] [com.vmos.google] 
+[Sat Mar 15 20:30:36 CST 2025] [com.vmos.google] 
+[Sat Mar 15 20:30:51 CST 2025] [com.vmos.google] 
+[Sat Mar 15 20:30:51 CST 2025] [com.vmos.google] 
+[Sat Mar 15 20:31:30 CST 2025] [com.vmos.google] 
+[Sat Mar 15 20:56:28 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sat Mar 15 20:56:28 CST 2025] [com.google.android.googlequicksearchbox] 
