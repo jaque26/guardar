@@ -3770,3 +3770,61 @@ Mientras a Ausencio la víctima lo denunció y está imputado
 [Sun Mar 23 01:05:18 CST 2025] [com.brave.browser] Kaizer
 [Sun Mar 23 01:05:19 CST 2025] [com.brave.browser] Kaizer
 [Sun Mar 23 01:05:19 CST 2025] [com.brave.browser] Kaizer
+[Sun Mar 23 08:12:14 CST 2025] [android] TikTok Antivirus Brave se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Sun Mar 23 08:12:30 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 08:12:30 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 08:12:32 CST 2025] [com.vmos.google] 
+[Sun Mar 23 08:12:32 CST 2025] [com.vmos.google] 
+[Sun Mar 23 08:12:45 CST 2025] [com.vmos.google] 
+[Sun Mar 23 08:12:45 CST 2025] [com.vmos.google] 
+[Sun Mar 23 08:15:35 CST 2025] [com.vmos.google] 
+[Sun Mar 23 08:15:40 CST 2025] [com.vmos.google] 
+[Sun Mar 23 08:25:33 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 08:25:33 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 10:46:24 CST 2025] [android] CFE Internet
+[Sun Mar 23 10:46:24 CST 2025] [android] 
+[Sun Mar 23 10:46:31 CST 2025] [android] Club_Totalplay_WiFi
+[Sun Mar 23 10:46:54 CST 2025] [android] CFE Internet
+[Sun Mar 23 10:47:00 CST 2025] [android] Club_Totalplay_WiFi
+[Sun Mar 23 10:47:36 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 10:47:36 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 10:47:37 CST 2025] [com.google.android.networkstack] Se estableció conexión
+[Sun Mar 23 10:47:42 CST 2025] [com.facebook.katana] 
+[Sun Mar 23 10:49:33 CST 2025] [android] Si no quieres que Aim Master use esta función, presiona para abrir la configuración y desactivarla.
+[Sun Mar 23 10:49:33 CST 2025] [android] 
+[Sun Mar 23 10:50:32 CST 2025] [android] 
+[Sun Mar 23 11:16:37 CST 2025] [android] 8 Ball Pool se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Sun Mar 23 11:33:13 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 11:33:13 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 11:35:03 CST 2025] [com.vmos.google] 
+[Sun Mar 23 11:35:03 CST 2025] [com.vmos.google] 
+[Sun Mar 23 11:35:15 CST 2025] [com.vmos.google] 
+[Sun Mar 23 11:35:16 CST 2025] [com.vmos.google] 
+[Sun Mar 23 11:36:35 CST 2025] [com.vmos.google] 
+[Sun Mar 23 11:56:36 CST 2025] [com.twitter.android] 4 cargos son los que tiene Ausencio por pornxgrafix infxntxl 
+[Sun Mar 23 12:42:06 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 12:42:06 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 12:43:35 CST 2025] [android] Presiona para ver opciones
+[Sun Mar 23 12:46:35 CST 2025] [android] Presiona para ver opciones
+[Sun Mar 23 13:13:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 13:13:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 16:47:46 CST 2025] [android] Antivirus se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Sun Mar 23 16:50:18 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 16:50:18 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 16:50:25 CST 2025] [com.facebook.katana] 
+[Sun Mar 23 16:50:25 CST 2025] [com.facebook.katana] 
+[Sun Mar 23 17:11:19 CST 2025] [com.vmos.google] 
+[Sun Mar 23 17:11:19 CST 2025] [com.vmos.google] 
+[Sun Mar 23 17:11:31 CST 2025] [com.vmos.google] 
+[Sun Mar 23 17:11:32 CST 2025] [com.vmos.google] 
+[Sun Mar 23 17:30:05 CST 2025] [com.facebook.katana] 
+[Sun Mar 23 17:30:06 CST 2025] [com.facebook.katana] 
+[Sun Mar 23 17:34:12 CST 2025] [com.zhiliaoapp.musically] Último día para hacer dinero haciendo LIVE. Aprovecha y gana.
+[Sun Mar 23 17:35:10 CST 2025] [android] Si no quieres que Aim Master use esta función, presiona para abrir la configuración y desactivarla.
+[Sun Mar 23 19:14:16 CST 2025] [android] 8 Ball Pool Antivirus se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Sun Mar 23 20:22:16 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 20:22:16 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 20:22:20 CST 2025] [com.facebook.katana] 
+[Sun Mar 23 20:22:20 CST 2025] [com.facebook.katana] 
+[Sun Mar 23 20:25:55 CST 2025] [com.google.android.googlequicksearchbox] 
+[Sun Mar 23 20:25:55 CST 2025] [com.google.android.googlequicksearchbox] 
