@@ -3838,3 +3838,643 @@ Mientras a Ausencio la víctima lo denunció y está imputado
 [Mon Mar 24 12:24:18 CST 2025] [com.termux] 1 session
 [Mon Mar 24 12:24:50 CST 2025] [com.termux] 1 session
 [Mon Mar 24 12:24:50 CST 2025] [com.termux] 1 session (wake lock held)
+[Mon Mar 24 12:37:57 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 12:37:57 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 13:12:52 CST 2025] [com.android.vending] Elige cualquier app, juego o artículo de compra en app de Play de más de $10.01
+[Mon Mar 24 13:13:55 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 13:13:55 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 15:15:01 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 15:15:01 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 15:15:04 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 15:15:08 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 15:15:08 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 15:15:39 CST 2025] [android] Antivirus DeepSeek Free Fire ZArchiver se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Mon Mar 24 15:15:47 CST 2025] [com.vmos.google] 
+[Mon Mar 24 15:15:47 CST 2025] [com.vmos.google] 
+[Mon Mar 24 15:15:50 CST 2025] [com.vmos.google] 
+[Mon Mar 24 15:16:00 CST 2025] [com.vmos.google] 
+[Mon Mar 24 15:16:02 CST 2025] [com.vmos.google] 
+[Mon Mar 24 15:16:02 CST 2025] [com.vmos.google] 
+[Mon Mar 24 15:16:04 CST 2025] [com.dts.freefireth] Tu amigo Veterano ᗰᗩᖇᔕᗝᑌƳᗩ ha comenzado su viaje Booyah. ¡Conéctate y pasen algo de tiempo de calidad!
+[Mon Mar 24 15:16:12 CST 2025] [com.vmos.google] 
+[Mon Mar 24 15:16:14 CST 2025] [com.vmos.google] 
+[Mon Mar 24 15:16:14 CST 2025] [com.vmos.google] 
+[Mon Mar 24 17:04:14 CST 2025] [android] Antivirus Free Fire se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Mon Mar 24 18:32:26 CST 2025] [android] Antivirus se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Mon Mar 24 19:38:02 CST 2025] [android] Antivirus se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Mon Mar 24 19:38:16 CST 2025] [com.dts.freefireth] El Conjunto Pisanubes llegó a la Ruleta Mágica. ¡No pierdas la oportunidad de ganar esta increíble recompensa y más!
+[Mon Mar 24 19:38:17 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 19:38:17 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 19:38:18 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 19:38:19 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 19:38:19 CST 2025] [com.vmos.google] 
+[Mon Mar 24 19:38:19 CST 2025] [com.vmos.google] 
+[Mon Mar 24 19:38:21 CST 2025] [com.google.android.youtube] 
+[Mon Mar 24 19:38:22 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 19:38:22 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 19:38:25 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 19:38:25 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 19:38:25 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 19:38:26 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 19:38:26 CST 2025] [com.google.android.youtube] 
+[Mon Mar 24 19:38:26 CST 2025] [com.dts.freefireth] Caja especial Airdrop Especial, desaparecerá en 60 minutos. ¡No te pierdas esta oportunidad exclusiva!
+[Mon Mar 24 19:38:32 CST 2025] [com.vmos.google] 
+[Mon Mar 24 19:38:32 CST 2025] [com.vmos.google] 
+[Mon Mar 24 19:40:26 CST 2025] [com.vmos.google] 
+[Mon Mar 24 19:40:41 CST 2025] [com.vmos.google] 
+[Mon Mar 24 19:40:53 CST 2025] [com.vmos.google] 
+[Mon Mar 24 19:43:53 CST 2025] [com.vmos.google] 
+[Mon Mar 24 21:28:51 CST 2025] [android] Antivirus Free Fire Brave se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Mon Mar 24 21:28:56 CST 2025] [in.playsimple.wordsearch] 🌌 Relax, unwind, and drift off peacefully 😴
+[Mon Mar 24 21:29:15 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 21:29:15 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 21:29:18 CST 2025] [com.vmos.google] 
+[Mon Mar 24 21:29:18 CST 2025] [com.vmos.google] 
+[Mon Mar 24 21:29:32 CST 2025] [com.vmos.google] 
+[Mon Mar 24 21:29:33 CST 2025] [com.vmos.google] 
+[Mon Mar 24 21:37:25 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 21:37:25 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 21:37:52 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 21:38:04 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 21:38:04 CST 2025] [com.google.android.googlequicksearchbox] 
+[Mon Mar 24 21:39:06 CST 2025] [com.vmos.google] 
+[Mon Mar 24 21:45:20 CST 2025] [com.dts.freefireth] Tu amigo Veterano ᗰᗩᖇᔕᗝᑌƳᗩ ha comenzado su viaje Booyah. ¡Conéctate y pasen algo de tiempo de calidad!
+[Mon Mar 24 22:25:35 CST 2025] [android] TikTok Word Search Free Fire se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Mon Mar 24 22:38:41 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 22:38:54 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 22:38:54 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 23:58:29 CST 2025] [android] TikTok 8 Ball Pool se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Mon Mar 24 23:58:38 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 23:58:38 CST 2025] [com.facebook.katana] 
+[Mon Mar 24 23:58:44 CST 2025] [com.vmos.google] 
+[Mon Mar 24 23:58:44 CST 2025] [com.vmos.google] 
+[Mon Mar 24 23:58:58 CST 2025] [com.vmos.google] 
+[Mon Mar 24 23:58:59 CST 2025] [com.vmos.google] 
+[Tue Mar 25 08:09:19 CST 2025] [android] TikTok Antivirus se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Tue Mar 25 08:09:33 CST 2025] [com.google.android.googlequicksearchbox] 
+[Tue Mar 25 08:09:33 CST 2025] [com.google.android.googlequicksearchbox] 
+[Tue Mar 25 08:09:34 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 08:09:37 CST 2025] [com.pinterest] 
+[Tue Mar 25 08:09:39 CST 2025] [com.twitter.android] 💣 VAN DER VAART RESPONDE A LAMINE: 
+
+😳 "Si te crees un Dios, te vuelves desagradable"....
+[Tue Mar 25 08:09:39 CST 2025] [com.twitter.android] Yo ya el tema del estadio me lo tomo directamente a chiste. Es un ridículo...
+[Tue Mar 25 08:09:39 CST 2025] [com.twitter.android] 
+[Tue Mar 25 08:09:40 CST 2025] [com.twitter.android] Yo ya el tema del estadio me lo tomo directamente a chiste. Es un ridículo...
+[Tue Mar 25 08:09:40 CST 2025] [com.twitter.android] 💣 VAN DER VAART RESPONDE A LAMINE: 
+
+😳 "Si te crees un Dios, te vuelves desagradable"....
+[Tue Mar 25 08:13:28 CST 2025] [com.twitter.android] Se están montando un equipo de Modo Carrera estos mamones. La verdad es que...
+[Tue Mar 25 08:13:28 CST 2025] [com.twitter.android] Se están montando un equipo de Modo Carrera estos mamones. La verdad es que...
+[Tue Mar 25 08:25:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Tue Mar 25 08:25:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Tue Mar 25 08:47:14 CST 2025] [com.vmos.google] 
+[Tue Mar 25 08:47:14 CST 2025] [com.vmos.google] 
+[Tue Mar 25 08:47:31 CST 2025] [com.vmos.google] 
+[Tue Mar 25 08:47:31 CST 2025] [com.vmos.google] 
+[Tue Mar 25 09:56:33 CST 2025] [android] TikTok Antivirus se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Tue Mar 25 10:32:44 CST 2025] [com.twitter.android] La foto que publicó Vinícius Júnior en su llegada a Buenos Aires… 😳🇧🇷
+[Tue Mar 25 10:32:45 CST 2025] [com.twitter.android] La foto que publicó Vinícius Júnior en su llegada a Buenos Aires… 😳🇧🇷
+[Tue Mar 25 11:16:11 CST 2025] [android] DeepSeek se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Tue Mar 25 12:08:49 CST 2025] [android] TikTok se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Tue Mar 25 12:57:07 CST 2025] [android] TikTok se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Tue Mar 25 12:58:23 CST 2025] [com.twitter.android] BOMBAZO DE ÚLTIMO MOMENTO 🤯⚪
+
+Informa Fabrizio Romano que Trent Alexander-...
+[Tue Mar 25 12:58:24 CST 2025] [com.twitter.android] BOMBAZO DE ÚLTIMO MOMENTO 🤯⚪
+
+Informa Fabrizio Romano que Trent Alexander-...
+[Tue Mar 25 13:13:33 CST 2025] [com.google.android.googlequicksearchbox] 
+[Tue Mar 25 13:13:33 CST 2025] [com.google.android.googlequicksearchbox] 
+[Tue Mar 25 13:49:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Tue Mar 25 13:49:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Tue Mar 25 13:49:51 CST 2025] [com.vmos.google] 
+[Tue Mar 25 13:49:51 CST 2025] [com.vmos.google] 
+[Tue Mar 25 13:50:04 CST 2025] [com.vmos.google] 
+[Tue Mar 25 13:50:04 CST 2025] [com.vmos.google] 
+[Tue Mar 25 14:44:23 CST 2025] [android] TikTok se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Tue Mar 25 14:54:03 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 14:54:03 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 16:02:51 CST 2025] [android] TikTok Antivirus Blossom Match se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Tue Mar 25 18:47:57 CST 2025] [in.playsimple.wordsearch] ¡Obtén los 12 avatares para un avatar premium épico!
+[Tue Mar 25 20:39:23 CST 2025] [com.google.android.googlequicksearchbox] 
+[Tue Mar 25 20:39:23 CST 2025] [com.google.android.googlequicksearchbox] 
+[Tue Mar 25 20:39:27 CST 2025] [com.pinterest] 
+[Tue Mar 25 20:39:29 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 20:39:32 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 20:39:36 CST 2025] [com.google.android.youtube] 
+[Tue Mar 25 20:39:40 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 20:39:40 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 20:39:44 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 20:39:44 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 20:40:02 CST 2025] [com.vmos.google] 
+[Tue Mar 25 20:40:02 CST 2025] [com.vmos.google] 
+[Tue Mar 25 20:41:07 CST 2025] [com.vmos.google] 
+[Tue Mar 25 20:41:07 CST 2025] [com.vmos.google] 
+[Tue Mar 25 22:09:22 CST 2025] [in.playsimple.wordsearch] 🍀A perfect way to slow down before sleep 🌜
+[Tue Mar 25 22:09:38 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 22:09:38 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 22:09:39 CST 2025] [com.google.android.youtube] 
+[Tue Mar 25 22:30:55 CST 2025] [com.vmos.google] 
+[Tue Mar 25 23:34:04 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 23:34:04 CST 2025] [com.facebook.katana] 
+[Tue Mar 25 23:47:40 CST 2025] [com.facebook.orca] 👍
+[Wed Mar 26 00:02:33 CST 2025] [com.vmos.google] 
+[Wed Mar 26 00:39:19 CST 2025] [android] TikTok Spotify DeepSeek Brave se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Wed Mar 26 01:13:33 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 01:13:33 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 05:46:00 CST 2025] [android] Antivirus Brave se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Wed Mar 26 05:46:14 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 05:46:14 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 05:53:46 CST 2025] [com.vmos.google] 
+[Wed Mar 26 05:53:46 CST 2025] [com.vmos.google] 
+[Wed Mar 26 05:53:58 CST 2025] [com.vmos.google] 
+[Wed Mar 26 05:53:58 CST 2025] [com.vmos.google] 
+[Wed Mar 26 07:47:21 CST 2025] [android] Antivirus se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Wed Mar 26 09:48:35 CST 2025] [android] Antivirus se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Wed Mar 26 10:15:17 CST 2025] [com.dts.freefireth] Tu amigo Veterano ᗰᗩᖇᔕᗝᑌƳᗩ ha comenzado su viaje Booyah. ¡Conéctate y pasen algo de tiempo de calidad!
+[Wed Mar 26 10:15:17 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 10:15:17 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 10:15:17 CST 2025] [com.pinterest] 
+[Wed Mar 26 10:15:21 CST 2025] [com.facebook.katana] 
+[Wed Mar 26 11:05:00 CST 2025] [com.vmos.google] 
+[Wed Mar 26 11:05:00 CST 2025] [com.vmos.google] 
+[Wed Mar 26 11:05:28 CST 2025] [com.vmos.google] 
+[Wed Mar 26 11:05:29 CST 2025] [com.vmos.google] 
+[Wed Mar 26 11:25:35 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 11:25:35 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 12:01:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 12:01:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 12:37:51 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 12:37:51 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 13:09:55 CST 2025] [android] DeepSeek Acode Brave se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Wed Mar 26 13:13:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 13:13:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 13:57:20 CST 2025] [android] TikTok se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Wed Mar 26 14:25:00 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 14:25:01 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 14:25:42 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 14:25:42 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 15:01:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 15:01:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 16:56:08 CST 2025] [android] DeepSeek se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Wed Mar 26 16:56:21 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 16:56:21 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 17:26:00 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 17:26:00 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 18:00:44 CST 2025] [android] DeepSeek se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Wed Mar 26 18:06:11 CST 2025] [com.google.android.youtube] 
+[Wed Mar 26 18:27:23 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 18:27:23 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 19:05:45 CST 2025] [com.pinterest] 
+[Wed Mar 26 19:09:49 CST 2025] [android] Pinterest se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Wed Mar 26 19:51:19 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 19:51:19 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 20:25:54 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 20:25:54 CST 2025] [com.google.android.googlequicksearchbox] 
+[Wed Mar 26 20:36:59 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Wed Mar 26 20:43:05 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Wed Mar 26 21:00:23 CST 2025] [in.playsimple.wordsearch] 🌙 A peaceful word search to end your day 😌
+[Wed Mar 26 21:21:28 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Wed Mar 26 21:48:02 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Wed Mar 26 21:48:20 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Wed Mar 26 23:47:23 CST 2025] [com.vmos.google] 
+[Wed Mar 26 23:47:23 CST 2025] [com.vmos.google] 
+[Wed Mar 26 23:47:35 CST 2025] [com.vmos.google] 
+[Wed Mar 26 23:47:35 CST 2025] [com.vmos.google] 
+[Wed Mar 26 23:50:52 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Thu Mar 27 00:48:07 CST 2025] [android] Word Search se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Thu Mar 27 00:48:17 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Thu Mar 27 00:48:17 CST 2025] [android] 
+[Thu Mar 27 00:48:19 CST 2025] [android] 
+[Thu Mar 27 00:48:26 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Thu Mar 27 00:48:26 CST 2025] [android] 
+[Thu Mar 27 00:48:26 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 00:48:26 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 01:00:06 CST 2025] [com.android.vending] 
+[Thu Mar 27 01:00:06 CST 2025] [com.android.vending] 
+[Thu Mar 27 01:00:06 CST 2025] [com.android.vending] 
+[Thu Mar 27 01:00:06 CST 2025] [com.android.vending] 
+[Thu Mar 27 01:00:06 CST 2025] [com.android.vending] 
+[Thu Mar 27 01:00:08 CST 2025] [com.android.vending] 
+[Thu Mar 27 01:00:08 CST 2025] [com.android.vending] Quedan 9 segundos
+[Thu Mar 27 01:00:10 CST 2025] [com.android.vending] Quedan 3 segundos
+[Thu Mar 27 01:00:12 CST 2025] [com.android.vending] Quedan 0 segundos
+[Thu Mar 27 01:00:12 CST 2025] [com.android.vending] Quedan 0 segundos
+[Thu Mar 27 01:00:12 CST 2025] [com.android.vending] Quedan 32 segundos
+[Thu Mar 27 01:00:12 CST 2025] [com.android.vending] Quedan 32 segundos
+[Thu Mar 27 01:00:14 CST 2025] [com.android.vending] Quedan 18 segundos
+[Thu Mar 27 01:00:16 CST 2025] [com.android.vending] Quedan 12 segundos
+[Thu Mar 27 01:00:18 CST 2025] [com.android.vending] Quedan 9 segundos
+[Thu Mar 27 01:00:20 CST 2025] [com.android.vending] Quedan 6 segundos
+[Thu Mar 27 01:00:22 CST 2025] [com.android.vending] Quedan 3 segundos
+[Thu Mar 27 01:00:24 CST 2025] [com.android.vending] Queda 1 segundo
+[Thu Mar 27 01:00:25 CST 2025] [com.android.vending] Quedan 0 segundos
+[Thu Mar 27 01:00:25 CST 2025] [com.android.vending] Quedan 0 segundos
+[Thu Mar 27 01:00:25 CST 2025] [com.android.vending] Quedan 0 segundos
+[Thu Mar 27 01:00:25 CST 2025] [com.android.vending] Quedan 0 segundos
+[Thu Mar 27 01:00:25 CST 2025] [com.android.vending] Quedan 0 segundos
+[Thu Mar 27 01:00:25 CST 2025] [com.android.vending] Quedan 0 segundos
+[Thu Mar 27 01:00:48 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Thu Mar 27 01:05:21 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Thu Mar 27 01:06:09 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Thu Mar 27 01:16:10 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:16:10 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:18:18 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:18:43 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Thu Mar 27 01:18:45 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:18:45 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:18:55 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:19:01 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:19:02 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:19:06 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Thu Mar 27 01:19:07 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:19:07 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:19:23 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:19:23 CST 2025] [com.vmos.google] 
+[Thu Mar 27 01:38:14 CST 2025] [android] Si no quieres que Night screen use esta función, presiona para abrir la configuración y desactivarla.
+[Thu Mar 27 08:24:07 CST 2025] [android] Antivirus Proton VPN EX Explorador de Archivos Night screen se detuvo por cerrar la App tras al bloquear la pantalla. Cliquee para ver los detalles de la configuración
+[Thu Mar 27 08:24:20 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 08:24:20 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 08:24:23 CST 2025] [com.pinterest] 
+[Thu Mar 27 08:24:26 CST 2025] [com.twitter.android] Oye @grok, ¿cuántos años tardará Chivas en igualar en campeonatos de Liga MX...
+[Thu Mar 27 08:24:26 CST 2025] [com.twitter.android] Joder, no soy la más fan de Marvel 
+PERO QUE LOCURA ES ESTA
+[Thu Mar 27 08:24:26 CST 2025] [com.twitter.android] Vuelve La Liga y dejo esto por aquí.
+[Thu Mar 27 08:24:26 CST 2025] [com.twitter.android] Oye @grok, ¿cuántos años tardará Chivas en igualar en campeonatos de Liga MX...
+[Thu Mar 27 08:24:26 CST 2025] [com.twitter.android] 
+[Thu Mar 27 08:24:27 CST 2025] [com.twitter.android] Vuelve La Liga y dejo esto por aquí.
+[Thu Mar 27 08:24:27 CST 2025] [com.twitter.android] Joder, no soy la más fan de Marvel 
+PERO QUE LOCURA ES ESTA
+[Thu Mar 27 08:24:27 CST 2025] [com.facebook.katana] 
+[Thu Mar 27 08:25:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 08:25:32 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 08:52:54 CST 2025] [com.vmos.google] 
+[Thu Mar 27 08:52:54 CST 2025] [com.vmos.google] 
+[Thu Mar 27 08:53:07 CST 2025] [com.vmos.google] 
+[Thu Mar 27 08:53:07 CST 2025] [com.vmos.google] 
+[Thu Mar 27 09:01:33 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 09:01:33 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 09:04:55 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 09:04:55 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 09:33:25 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:26 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:27 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:30 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:30 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:31 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:32 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:32 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:33 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:34 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:35 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:35 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:36 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:37 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:39 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:39 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:41 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:44 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:44 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:47 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:56 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:56 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:58 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:58 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:59 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:33:59 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:00 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:01 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:02 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:02 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:03 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:03 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:18 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:19 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:19 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:20 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:20 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:21 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:21 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:22 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:23 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:23 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:24 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:26 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:27 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:27 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:28 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:29 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:29 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:30 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:30 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:31 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:32 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:32 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:33 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:34 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:34 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:35 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:38 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:41 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:42 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:43 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:44 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:44 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:45 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:46 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:46 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:47 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:47 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:48 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:49 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:49 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:50 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:50 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:51 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:52 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:53 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:34:54 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:36:23 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:36:24 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:36:24 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:36:25 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:36:26 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:36:27 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:36:27 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:05 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:06 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:07 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:07 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:08 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:08 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:09 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:10 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:11 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:11 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:13 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:14 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:14 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:15 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:17 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:18 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:33 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:34 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:35 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:35 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:36 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:37 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:38 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:38 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:39 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:41 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:41 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:42 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:43 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:43 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:45 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:45 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:46 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:47 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:48 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:50 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:51 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:51 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:52 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:52 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:53 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:53 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:54 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:37:54 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:22 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:27 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:27 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:28 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:28 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:30 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:30 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:31 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:31 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:32 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:36 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:37 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:38 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:38 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:44 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:44 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:45 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:46 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:46 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:47 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:48 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:49 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:49 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:50 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:50 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:54 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:55 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:55 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:56 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:56 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:57 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:58 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:58 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:59 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:38:59 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:39:05 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:14 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:15 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:16 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:16 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:17 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:28 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:29 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:29 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:30 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:31 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:31 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:32 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:33 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:33 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:34 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:38 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:38 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:39 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:41 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:41 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:40:56 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 09:40:56 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 09:41:34 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:35 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:35 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:37 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:38 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:38 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:39 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:39 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:41 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:42 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:42 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:44 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:44 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:45 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:45 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:46 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:46 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:47 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:47 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:48 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:49 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:49 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:50 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:51 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:51 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:41:52 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:19 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:21 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:21 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:22 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:23 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:53 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:53 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:54 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:56 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:56 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:59 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:42:59 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:01 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:01 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:16 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:16 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:17 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:18 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:19 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:19 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:20 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:21 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:21 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:22 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:23 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:24 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:25 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:25 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:27 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:28 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:29 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:29 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:31 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:31 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:33 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:34 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:34 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:35 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:35 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:37 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:38 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:39 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:40 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:41 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:43:42 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:45:13 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:45:13 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:45:13 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:45:13 CST 2025] [com.brave.browser] 
+[Thu Mar 27 09:51:22 CST 2025] [com.android.systemui] Tienes 10 % de batería restante. El Ahorro de batería activa el Tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.
+[Thu Mar 27 09:51:47 CST 2025] [com.twitter.android] No ganamos el sextete en 2022 por esto y Ancelotti no lloró en la rueda de...
+[Thu Mar 27 09:51:48 CST 2025] [com.twitter.android] No ganamos el sextete en 2022 por esto y Ancelotti no lloró en la rueda de...
+[Thu Mar 27 10:00:41 CST 2025] [com.android.systemui] Tienes 9 % de batería restante. El Ahorro de batería activa el Tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.
+[Thu Mar 27 10:00:46 CST 2025] [com.android.systemui] Tienes 9 % de batería restante. El Ahorro de batería activa el Tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.
+[Thu Mar 27 10:09:59 CST 2025] [com.android.systemui] Tienes 8 % de batería restante. El Ahorro de batería activa el Tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.
+[Thu Mar 27 10:10:46 CST 2025] [com.android.systemui] Tienes 8 % de batería restante. El Ahorro de batería activa el Tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.
+[Thu Mar 27 10:13:55 CST 2025] [com.android.systemui] Tienes 8 % de batería restante. El Ahorro de batería activa el Tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.
+[Thu Mar 27 10:20:32 CST 2025] [com.android.systemui] Tienes 8 % de batería restante. El Ahorro de batería activa el Tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.
+[Thu Mar 27 10:41:05 CST 2025] [android] El teléfono tiene suficiente carga. Ya no se restringen las funciones.
+[Thu Mar 27 14:00:58 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 14:00:58 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 14:01:01 CST 2025] [com.twitter.android] 🚨 ÚLTIMA HORA: La UEFA investiga las acusaciones de conducta indecente de ...
+[Thu Mar 27 14:01:01 CST 2025] [com.twitter.android] 🚨 ÚLTIMA HORA: La UEFA investiga las acusaciones de conducta indecente de ...
+[Thu Mar 27 14:01:01 CST 2025] [com.twitter.android] 
+[Thu Mar 27 14:01:21 CST 2025] [com.android.vending] X, Proton VPN: VPN veloz y segura, Messenger, Bienestar digital y 11 más
+[Thu Mar 27 14:03:04 CST 2025] [com.brave.browser] 
+[Thu Mar 27 14:03:05 CST 2025] [com.brave.browser] 
+[Thu Mar 27 14:12:59 CST 2025] [com.twitter.android] Los likes de Madrid Zone cuando eran públicos😭😭.
+[Thu Mar 27 14:13:00 CST 2025] [com.twitter.android] Los likes de Madrid Zone cuando eran públicos😭😭.
+[Thu Mar 27 17:53:28 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 17:53:28 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 17:53:29 CST 2025] [com.twitter.android] 🖥️💥 Correcta intervención del VAR en el Barcelona - Osasuna.
+
+👉🏻 Moncayola, qu...
+[Thu Mar 27 17:53:29 CST 2025] [com.twitter.android] 🖥️💥 Correcta intervención del VAR en el Barcelona - Osasuna.
+
+👉🏻 Moncayola, qu...
+[Thu Mar 27 17:53:31 CST 2025] [com.vmos.google] 
+[Thu Mar 27 17:53:31 CST 2025] [com.vmos.google] 
+[Thu Mar 27 17:53:44 CST 2025] [com.vmos.google] 
+[Thu Mar 27 17:53:44 CST 2025] [com.vmos.google] 
+[Thu Mar 27 18:22:34 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 18:22:34 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 18:34:03 CST 2025] [com.twitter.android] Venganza 4/6: COMPLETADA ✅
+[Thu Mar 27 18:34:03 CST 2025] [com.twitter.android] Venganza 4/6: COMPLETADA ✅
+[Thu Mar 27 18:37:54 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 18:37:54 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 19:05:52 CST 2025] [com.pinterest] 
+[Thu Mar 27 20:55:20 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 20:55:20 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 20:55:23 CST 2025] [com.zhiliaoapp.musically] ¡Loli Games 🍒 te invita a ver su LIVE!
+[Thu Mar 27 20:55:24 CST 2025] [com.google.android.youtube] 
+[Thu Mar 27 21:00:02 CST 2025] [in.playsimple.wordsearch] 🌌 Relax, unwind, and drift off peacefully 😴
+[Thu Mar 27 21:01:54 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 21:01:54 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 21:37:54 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 21:37:54 CST 2025] [com.google.android.googlequicksearchbox] 
+[Thu Mar 27 21:52:37 CST 2025] [com.vmos.google] 
+[Thu Mar 27 21:52:37 CST 2025] [com.vmos.google] 
+[Thu Mar 27 21:52:49 CST 2025] [com.vmos.google] 
+[Thu Mar 27 21:52:50 CST 2025] [com.vmos.google] 
+[Thu Mar 27 22:17:32 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:44 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:45 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:45 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:46 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:47 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:48 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:49 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:50 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:50 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:51 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:51 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:52 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:53 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:53 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:17:54 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:19:47 CST 2025] [com.twitter.android] Es que no hay fotos de Ficticius así que no sea con Madridiotas 🤣🤣🐒
+Encima Scaloni salió a declarar a favor de Rapinha 
+[Thu Mar 27 22:19:47 CST 2025] [com.twitter.android] Es que no hay fotos de Ficticius así que no sea con Madridiotas 🤣🤣🐒
+Encima Scaloni salió a declarar a favor de Rapinha 
+[Thu Mar 27 22:21:23 CST 2025] [com.twitter.android] Carvajal con la 4 
+[Thu Mar 27 22:26:09 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 22:30:33 CST 2025] [com.termux] 0 sessions
+[Thu Mar 27 22:30:33 CST 2025] [com.termux] 0 sessions
+[Thu Mar 27 22:30:33 CST 2025] [com.termux] 1 session
+[Thu Mar 27 22:34:37 CST 2025] [com.termux] 2 sessions
+[Thu Mar 27 22:35:52 CST 2025] [com.termux] 2 sessions
+[Thu Mar 27 22:45:08 CST 2025] [com.termux] 3 sessions
+[Thu Mar 27 22:48:51 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 23:00:05 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 23:00:05 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 23:00:05 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 23:00:06 CST 2025] [com.brave.browser] DeBe
+[Thu Mar 27 23:24:06 CST 2025] [com.termux] 3 sessions
+[Thu Mar 27 23:24:06 CST 2025] [com.termux] 3 sessions (wake lock held)
