@@ -380,3 +380,5 @@
 [Fri Mar 28 00:41:21 CST 2025] [com.brave.browser] DeBe
 [Fri Mar 28 00:41:25 CST 2025] [com.brave.browser] DeBe
 [Fri Mar 28 00:41:25 CST 2025] [com.brave.browser] DeBe
+[Fri Mar 28 00:43:43 CST 2025] [com.termux] 2 sessions (wake lock held)
+[Fri Mar 28 00:43:44 CST 2025] [com.termux] 1 session (wake lock held)
