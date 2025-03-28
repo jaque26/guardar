@@ -1454,3 +1454,7 @@ Puedes cambiar esta opción más tarde en Configuración > Apps y notific*acione
 [Configuración de sonido]
 [Pantalla de inicio 1 de 1]
 [Configuración de sonido]
+[Termux]
+[Ícono de la aplicación]
+[[1]]
+[Termux]
