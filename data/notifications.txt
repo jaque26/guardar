@@ -7693,3 +7693,5 @@ https://t.me/Juegodetronostvhd/101
 [Fri Mar 28 11:37:48 CST 2025] [eu.faircode.netguard] 
 [Fri Mar 28 11:38:02 CST 2025] [com.termux] 1 session
 [Fri Mar 28 11:38:03 CST 2025] [com.termux] 1 session (wake lock held)
+[Fri Mar 28 11:38:40 CST 2025] [eu.faircode.netguard] 
+[Fri Mar 28 11:38:40 CST 2025] [eu.faircode.netguard] 
