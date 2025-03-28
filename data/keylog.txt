@@ -1452,3 +1452,5 @@ Puedes cambiar esta opción más tarde en Configuración > Apps y notific*acione
 [Aplica*ciones]
 [Pantalla de inicio 1 de 1]
 [Configuración de sonido]
+[Pantalla de inicio 1 de 1]
+[Configuración de sonido]
