@@ -1281,3 +1281,5 @@ Puedes cambiar esta opción más tarde en Configuración > Apps y notific*acione
 [Termux]
 [[1]]
 [Termux]
+[Termux]
+[Pantalla de inicio 1 de 1]
