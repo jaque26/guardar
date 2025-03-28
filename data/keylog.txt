@@ -960,3 +960,14 @@ Esto también le dará a la aplicación la posibilidad de activar o desactivar l
 [Termux]
 [[1]]
 [Termux]
+[¿Permitir que la app se ejecute siempre en segundo plano?, Si permites que Termux se ejecute siempre en segundo plano, es posible que se reduzca la duración de la batería. 
+
+Puedes cambiar esta opción más tarde en Configuración > Apps y notific*aciones., Denegar, Permitir]
+[¿Permitir que la app se ejecute siempre en segundo plano?, Si permites que Termux se ejecute siempre en segundo plano, es posible que se reduzca la duración de la batería. 
+
+Puedes cambiar esta opción más tarde en Configuración > Apps y notific*aciones., Denegar, Permitir]
+[Permitir]
+[Información de la aplicación]
+[Permisos, Archivos y contenido multimedia, Cámara, Contactos, Micrófono, Registro de llamadas, Teléfono y Ubicación]
+[Permisos de la app]
+[Información de la aplicación]
