@@ -8248,3 +8248,8 @@ Pero te dicen que Gavi es top mundial y lo mismo con Balde y Ferran y García, I
 [Configuración]
 [SÍ]
 [¿Quieres detener Antivirus?, Si presionas Detener, se detendrá Antivirus., Cancelar, Detener]
+[Configuración]
+[Configuración]
+[Configuración]
+[Configuración]
+[Configuración]
